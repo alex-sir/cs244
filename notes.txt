@@ -1,2 +1,3 @@
 Merge multiple commits into one: git rebase -i HEAD-6
 Pick individual commits to merge: git cherry-pick #
+Add alias: git config --global alias.l "log --abbrev-commit --pretty=oneline"

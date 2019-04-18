@@ -1,0 +1,1 @@
+Merge multiple commits into one: git rebase -i HEAD-6 

@@ -1,1 +1,2 @@
-Merge multiple commits into one: git rebase -i HEAD-6 
+Merge multiple commits into one: git rebase -i HEAD-6
+Pick individual commits to merge: git cherry-pick #
